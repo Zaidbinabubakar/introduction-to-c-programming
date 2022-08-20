@@ -63,7 +63,7 @@ int main() {
   cout << "I am learning C++" << endl; //endl manipulator
   cout << "Thanks for Reading my content";
   
-  //thing you try "\t" "\\" "\""
+  //thing you can try "\t" "\\" "\""
   cout << endl << " trying new line huhuh" << endl; // you can also add \n or endl before/end line
   
   cout << "Hello World! \t"; //\t character
