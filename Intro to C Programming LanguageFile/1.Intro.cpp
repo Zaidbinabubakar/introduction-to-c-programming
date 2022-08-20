@@ -1,6 +1,4 @@
-/* 
-
-# C++ Get Started
+/* # C++ Get Started
 To start using C++, you need two things:
 
 A text editor, like Notepad, to write C++ code
